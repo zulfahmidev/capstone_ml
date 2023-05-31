@@ -1,0 +1,25 @@
+Data ini dikumpulkan melalui tes kepribadian yang didapat dengan menjawab 20 pertanyaan. Pertanyaan tersebut dijawab oleh mahasiswa yang telah memasuki perguruan tinggi sehingga label yang dihasilkan telah ada sesuai jurusan yang mereka geluti. Namun pada dataset ini berhubung waktu pengerjaan project sedikit data digenerate sehingga menghasilkan data untuk menjadi bahan prediksi.  
+
+Item-item berikut disajikan dalam satu halaman dan masing-masing dinilai dengan skala lima poin. Urutannya pada halaman adalah P1, P2 dan seterusnya. Skala diberi label 1=Sangat Tidak Setuju, 1=Tidak Setuju, 1= Netral, 3=Setuju, 5=Sangat Setuju
+
+P1.	Bagaimana Anda menilai kemampuan matematika dan analitis Anda?
+P2.	Apakah Anda lebih condong ke arah penelitian ilmiah atau artistik?
+P3.	Apakah Anda menikmati bekerja dengan teknologi dan komputer?
+P4.	Seberapa tertarik Anda dalam memahami perilaku dan motivasi manusia?
+P5.	Apakah Anda tertarik dalam memecahkan masalah teknis atau ilmiah?
+P6.	Apakah Anda memiliki kecenderungan kuat dalam ekspresi kreatif?
+P7. Apakah Anda tertarik untuk menjelajahi budaya dan perspektif yang berbeda?
+P8. Seberapa penting bagi Anda untuk memberikan dampak positif pada kehidupan orang lain?
+P9. Apakah Anda lebih condong pada pengetahuan praktis atau teoritis?
+P10. Seberapa nyaman Anda dalam berbicara di depan umum dan melakukan presentasi?
+P11. Apakah Anda tertarik pada keberlanjutan lingkungan dan pelestarian alam?
+P12. Seberapa mahir Anda dalam berpikir kritis dan pemecahan masalah?
+P13. Apakah Anda menikmati melakukan percobaan dan menganalisis data?
+P14. Apakah Anda tertarik dalam mempelajari bisnis dan kewirausahaan?
+P15. Seberapa baik Anda bekerja dalam tim dan berkolaborasi dengan orang lain?
+P16. Apakah Anda tertarik dalam bidang kesehatan dan medis?
+P17. Seberapa penting kreativitas dan inovasi bagi Anda?
+P18. Apakah Anda memiliki minat yang kuat dalam sastra dan bahasa?
+P19. Apakah Anda cenderung pada penelitian dan kegiatan akademik?
+P20. Seberapa tertarik Anda dalam ilmu sosial dan pemahaman masyarakat?
+
