@@ -1,7 +1,3 @@
-This data was collected through a personality test by answering 20 questions. The questions were answered by college students who have already entered university, and the resulting labels correspond to their respective majors. However, due to time constraints during the project, some data was generated to serve as prediction material.
-
-The following items are presented on a single page and are rated on a five-point scale. The order on the page is P1, P2, and so on. The scale is labeled as follows: 1=Strongly Disagree, 2=Disagree, 3=Neutral, 4=Agree, 5=Strongly Agree.
-
 1. How would you rate your mathematical and analytical skills?
 2. Are you more inclined towards scientific or artistic pursuits?
 3. Do you enjoy working with technology and computers?
