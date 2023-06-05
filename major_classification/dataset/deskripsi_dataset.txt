@@ -1,22 +1,28 @@
-Certainly! Here are the translated versions of the questions in Bahasa Indonesia:
+Dataset ini digunakan untuk melakukan klasifikasi terhadapat jurusan yang hendak calon mahasiswa masuki. dengan melakukan beberapa testing kemudian akan keluar jenis jurusan apa yang mereka minati. responden cukup menjawab pertanyaan dengan lima kategori yaitu : 
+1 = Sangat tidak setuju
+2 = tidak setuju
+3 = Netral
+4 = setuju
+5 = Sangat setuju
 
-1. Bagaimana Anda menilai kemampuan matematika dan analitis Anda?
-2. Apakah Anda lebih condong ke arah penelitian ilmiah atau artistik?
-3. Apakah Anda menikmati bekerja dengan teknologi dan komputer?
-4. Seberapa tertarik Anda dalam memahami perilaku dan motivasi manusia?
-5. Apakah Anda tertarik dalam memecahkan masalah teknis atau ilmiah?
-6. Apakah Anda memiliki kecenderungan kuat dalam ekspresi kreatif?
-7. Apakah Anda tertarik untuk menjelajahi budaya dan perspektif yang berbeda?
-8. Seberapa penting bagi Anda untuk memberikan dampak positif pada kehidupan orang lain?
-9. Apakah Anda lebih condong pada pengetahuan praktis atau teoritis?
-10. Seberapa nyaman Anda dalam berbicara di depan umum dan melakukan presentasi?
-11. Apakah Anda tertarik pada keberlanjutan lingkungan dan pelestarian alam?
-12. Seberapa mahir Anda dalam berpikir kritis dan pemecahan masalah?
-13. Apakah Anda menikmati melakukan percobaan dan menganalisis data?
-14. Apakah Anda tertarik dalam mempelajari bisnis dan kewirausahaan?
-15. Seberapa baik Anda bekerja dalam tim dan berkolaborasi dengan orang lain?
-16. Apakah Anda tertarik dalam bidang kesehatan dan medis?
-17. Seberapa penting kreativitas dan inovasi bagi Anda?
-18. Apakah Anda memiliki minat yang kuat dalam sastra dan bahasa?
-19. Apakah Anda cenderung pada penelitian dan kegiatan akademik?
-20. Seberapa tertarik Anda dalam ilmu sosial dan pemahaman masyarakat?
+
+P1. Saya memiliki kemampuan matematika dan analitis yang tinggi
+P2. Saya lebih condong ke arah penelitian artistik
+P3. Saya menikmati pembelajran dengan teknologi dan komputer
+P4. Saya tertarik dalam memahami perilaku dan motivasi manusia
+P5. Saya tertarik dalam memecahkan masalah teknis maupun ilmiah
+P6. Saya memiliki kecenderungan kuat dalam ekspresi kreatif
+P7. Saya tertarik untuk menjelajahi budaya dan perspektif yang berbepda
+P8. Penting bagi saya untuk memberikan dampak positif pada kehidupan orang lain
+P9. Saya lebih condong pada pengetahuan praktis maupun teoritis
+P10. Saya nyaman dalam melakukan perbicara di depan umum dan melakukan presentasi
+P11. Saya tertarik pada masalah lingkungan dan pelestarian alam
+P12. Saya mahir Anda dalam berpikir kritis dan pemecahan masalah
+P13. Saya sangat menikmati melakukan percobaan dan menganalisis data
+P14. Saya tertarik dalam mempelajari bisnis dan kewirausahaan
+P15. Saya tertarik bekerja dalam tim dan berkolaborasi dengan orang lain
+P16. Saya tertarik dalam bidang kesehatan dan medis
+P17. Saya sangat menyykai kreativitas dan inovasi
+P18. Saya memiliki minat yang kuat dalam sastra dan bahasa
+P19. Saya cenderung suka pada penelitian dan kegiatan akademik
+P20. Saya tertarik dalam memahami ilmu sosial dan pemahaman masyarakat
