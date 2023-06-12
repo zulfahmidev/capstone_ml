@@ -42,5 +42,7 @@ cd Notebook/Model_fix.ipynb
 ```
 
 ## Output
+![image](https://github.com/zulfahmidev/capstone_ml/blob/9400176868084997096c90129134c912a9b1216e/src/public/output.png)
 
 ## Predict and Accuracy
+![image](https://github.com/zulfahmidev/capstone_ml/blob/9400176868084997096c90129134c912a9b1216e/src/public/predict.png)
