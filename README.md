@@ -28,7 +28,7 @@ pip install -r requirements.txt
 
 ## Training
 
-> How to run experiment:
+> How to run notebook:
 > 1. Enter the Notebook folder.
 > 2. Open the notebook named "Model_fix.ipynb."
 > 3. Execute several requirements.
@@ -41,8 +41,16 @@ How access notebook, you can do as this:
 cd Notebook/Model_fix.ipynb
 ```
 
+## Predict
+
+How to run experiment:
+
+```bash
+streamlit run main.py
+```
+
 ## Output
 ![image](https://github.com/zulfahmidev/capstone_ml/blob/9400176868084997096c90129134c912a9b1216e/src/public/output.png)
 
-## Predict and Accuracy
-    link to ....
+## Result
+![Logo Transparent white](https://github.com/zulfahmidev/capstone_ml/blob/5702f59d4a44b6216662e5f9394af2a4d6c422b0/src/public/Result.png)
