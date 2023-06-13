@@ -53,4 +53,4 @@ streamlit run main.py
 ![image](https://github.com/zulfahmidev/capstone_ml/blob/9400176868084997096c90129134c912a9b1216e/src/public/output.png)
 
 ## Result
-![Logo Transparent white](https://github.com/zulfahmidev/capstone_ml/blob/1629ddbcf82af23ecd0eac40fea2abf5768399bf/src/public/Result-removebg-preview.png)
+![Logo Transparent white](https://github.com/zulfahmidev/capstone_ml/blob/e5e7f3b25bfd8da87a9d9e3aeb3a110cb81eace0/src/public/Result.png)
